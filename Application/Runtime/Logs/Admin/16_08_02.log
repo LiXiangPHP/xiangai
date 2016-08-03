@@ -1,0 +1,2585 @@
+[ 2016-08-02T08:39:23+08:00 ] 127.0.0.1 /0714/admin.php/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T08:39:30+08:00 ] 127.0.0.1 /0714/admin.php/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T08:39:34+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T08:39:37+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T09:15:42+08:00 ] 127.0.0.1 /0714/admin.php/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T09:15:46+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-08-02T09:15:49+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T09:17:29+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T09:21:04+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:33:42+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-08-02T10:33:45+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:34:33+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:35:08+08:00 ] 127.0.0.1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:35:16+08:00 ] 127.0.0.1 /0714/admin.php/Login/logindoit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_admin` [ RunTime:0.1563s ]
+SQL: SELECT * FROM `shop_admin` WHERE `admin_name` = 'login' AND `admin_pass` = 'd56b699830e77ba53855679cb1d252da' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-02T10:35:24+08:00 ] 127.0.0.1 /0714/admin.php/Login/logindoit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_admin` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_admin` WHERE `admin_name` = 'admin' AND `admin_pass` = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `shop_admin` SET `last_ip`='2130706433',`login_times`=login_times+1 WHERE `admin_id` = 1 [ RunTime:0.0313s ]
+
+[ 2016-08-02T10:35:24+08:00 ] 127.0.0.1 /0714/admin.php/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:35:30+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:35:30+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0625s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0313s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-08-02T10:36:03+08:00 ] 127.0.0.1 /0714/admin.php/Goods/update/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:37:15+08:00 ] 127.0.0.1 /0714/admin.php/Order/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:37:16+08:00 ] 127.0.0.1 /0714/admin.php/Order/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_order_info` LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_info` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:37:17+08:00 ] 127.0.0.1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:37:21+08:00 ] 127.0.0.1 /0714/admin.php/Order/orderInfo.html?id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <0 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >0 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:37:22+08:00 ] 127.0.0.1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:37:28+08:00 ] 127.0.0.1 /0714/admin.php/Order/protal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:protal
+
+[ 2016-08-02T10:55:39+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:55:43+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:55:43+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0313s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:55:46+08:00 ] 127.0.0.1 /0714/admin.php/Goods/insert.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T10:56:18+08:00 ] 127.0.0.1 /0714/admin.php/Goods/insertDoit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+
+[ 2016-08-02T10:57:28+08:00 ] 127.0.0.1 /0714/admin.php/Goods/insertDoit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\WWW\0714\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\0714\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-08-02T10:57:43+08:00 ] 127.0.0.1 /0714/admin.php/Goods/insertDoit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\phpStudy\WWW\0714\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\0714\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-08-02T11:02:13+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:02:14+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:02:33+08:00 ] 127.0.0.1 /0714/admin.php/Order/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:02:33+08:00 ] 127.0.0.1 /0714/admin.php/Order/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_order_info` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:02:35+08:00 ] 127.0.0.1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:02:40+08:00 ] 127.0.0.1 /0714/admin.php/Order/orderInfo.html?id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 0 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <0 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >0 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:02:42+08:00 ] 127.0.0.1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:03:06+08:00 ] 127.0.0.1 /0714/admin.php/Order/protal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:protal
+
+[ 2016-08-02T11:03:09+08:00 ] 127.0.0.1 /0714/admin.php/Order/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:03:10+08:00 ] 127.0.0.1 /0714/admin.php/Order/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_order_info` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:03:14+08:00 ] 127.0.0.1 /0714/admin.php/Order/page.html?p=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_order_info` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` LIMIT 30,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:03:27+08:00 ] 127.0.0.1 /0714/admin.php/Order/ordersearch.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_sn like "%113%" and consignee like "%%" )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: show D:\phpStudy\WWW\0714\Application\Runtime\Cache\Admin\ffbdcb7f240eaac7eee91c32d84acb08.php 第 185 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:03:39+08:00 ] 127.0.0.1 /0714/admin.php/Order/ordersearch.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined index: order_sn D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 40 行.
+NOTIC: [8] Undefined index: consignee D:\phpStudy\WWW\0714\Application\Admin\Controller\OrderController.class.php 第 40 行.
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_sn like "%%" and consignee like "%%" )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined variable: show D:\phpStudy\WWW\0714\Application\Runtime\Cache\Admin\ffbdcb7f240eaac7eee91c32d84acb08.php 第 185 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2016-08-02T11:05:28+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:28+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:40+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:41+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:43+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015625s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:43+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:50+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:05:51+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:06:00+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:06:01+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:10:22+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:30:31+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:30:35+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:30:35+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:30:39+08:00 ] 127.0.0.1 /0714/admin.php/Goods/update/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `shop_goods` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T11:30:45+08:00 ] 127.0.0.1 /0714/admin.php/Goods/update/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T12:15:21+08:00 ] 127.0.0.1 /0714/admin.php/Goods/updateDoit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `shop_goods` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\0714\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\0714\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `shop_goods` SET `goods_name`='小香风钉珠七分袖中长毛呢外套123abc',`goods_price`='194.00',`goods_store`='34',`goods_desc`='&lt;p&gt;ffff&lt;br/&gt;&lt;/p&gt;' WHERE `id` = '4' [ RunTime:0.0313s ]
+
+[ 2016-08-02T12:15:21+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T12:15:22+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T12:15:24+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 5,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T12:15:27+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 45,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T15:41:43+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0313s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T15:41:56+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0000s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T16:16:32+08:00 ] 127.0.0.1 /0714/admin.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T16:16:36+08:00 ] 127.0.0.1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T16:16:37+08:00 ] 127.0.0.1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0156s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T16:22:26+08:00 ] 127.0.0.1 /0714/admin.php/goods/protal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0156s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:protal
+
+[ 2016-08-02T16:50:46+08:00 ] ::1 /0714/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T16:50:49+08:00 ] ::1 /0714/admin.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-02T16:51:26+08:00 ] ::1 /0714/admin.php/Login/logindoit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_admin` [ RunTime:0.0700s ]
+SQL: SELECT * FROM `shop_admin` WHERE `admin_name` = 'admin' AND `admin_pass` = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.0130s ]
+SQL: UPDATE `shop_admin` SET `last_ip`='0',`login_times`=login_times+1 WHERE `admin_id` = 1 [ RunTime:0.0010s ]
+
+[ 2016-08-02T16:51:27+08:00 ] ::1 /0714/admin.php/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T16:51:31+08:00 ] ::1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T16:51:31+08:00 ] ::1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0020s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:23+08:00 ] ::1 /0714/admin.php/Goods/update/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_goods` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\0ca25e58e2ed147fa1f8f6328daac107.php 第 153 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:26+08:00 ] ::1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T17:20:26+08:00 ] ::1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0020s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:28+08:00 ] ::1 /0714/admin.php/goods/protal.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:protal
+
+[ 2016-08-02T17:20:31+08:00 ] ::1 /0714/admin.php/goods/fenxi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:fenxi
+
+[ 2016-08-02T17:20:32+08:00 ] ::1 /0714/admin.php/group/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0050s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:33+08:00 ] ::1 /0714/admin.php/Group/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_auth_group` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_auth_group` LIMIT 0,1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T17:20:35+08:00 ] ::1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T17:20:35+08:00 ] ::1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0020s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:40+08:00 ] ::1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T17:20:40+08:00 ] ::1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0040s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T17:20:42+08:00 ] ::1 /0714/admin.php/Goods/insert.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_id' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'path' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+NOTIC: [2] Illegal string offset 'cate_name' D:\xampp\htdocs\0714\Application\Runtime\Cache\Admin\b395439d6a82b0a287b46ab5c7395771.php 第 153 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:46+08:00 ] ::1 /0714/admin.php/Order/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:46+08:00 ] ::1 /0714/admin.php/Order/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0050s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_order_info` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` LIMIT 0,5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:52+08:00 ] ::1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:53+08:00 ] ::1 /0714/admin.php/Order/orderInfo.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <2 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >2 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-02T17:20:54+08:00 ] ::1 /0714/admin.php/Order/orderInfo.html?id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <3 ) ORDER BY order_id desc limit 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >3 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:55+08:00 ] ::1 /0714/admin.php/Order/orderInfo.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0040s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <2 ) ORDER BY order_id desc limit 1  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >2 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:20:55+08:00 ] ::1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-02T17:20:56+08:00 ] ::1 /0714/admin.php/Order/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:admin.php
+
+[ 2016-08-02T17:20:58+08:00 ] ::1 /0714/admin.php/Order/orderInfo.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_order_info` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `shop_order_info` WHERE `order_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id <1 ) ORDER BY order_id desc limit 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `shop_order_info` WHERE ( order_id >1 ) ORDER BY order_id limit 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\xampp\htdocs\0714\Application\Admin\Controller\OrderController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `shop_order_goods` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `shop_order_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:21:00+08:00 ] ::1 /0714/admin.php/Order/users.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0030s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+ERR: 非法操作:users.php
+
+[ 2016-08-02T17:21:03+08:00 ] ::1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-08-02T17:21:03+08:00 ] ::1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0030s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:35:56+08:00 ] ::1 /0714/admin.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-02T17:35:56+08:00 ] ::1 /0714/admin.php/Goods/page.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_group_access` [ RunTime:0.0020s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM shop_auth_group_access a INNER JOIN shop_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_auth_rule` [ RunTime:0.0020s ]
+SQL: SELECT `condition`,`name` FROM `shop_auth_rule` WHERE `id` IN ('') AND `type` = 1 AND `status` = 1  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shop_goods` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `shop_goods` LIMIT 0,5   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `shop_cate` [ RunTime:0.0020s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `cate_name` FROM `shop_cate` WHERE ( 1=1 AND cate_id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

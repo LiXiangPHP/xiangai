@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+<title></title>
+<link href="css/style.css" type="text/css" rel="stylesheet" />
+<script src="js/TouchSlide.1.1.js" type="text/javascript"></script>
+<script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="js/jquery.uploadfile.min.js" type="text/javascript"></script>
+<!--<script>
+	$(document).ready(function()
+{
+    $("#fileuploader").uploadFile({
+        url:"文件上传url",
+	fileName:"myfile"
+    });
+});
+</script>
+<script>
+$("#fileuploader").uploadFile({
+    url:"/file/upload",                 //文件上传url
+    fileName:"image",               //提交到服务器的文件名
+    maxFileCount: 1,                //上传文件个数（多个时修改此处
+    returnType: 'json',              //服务返回数据
+    allowedTypes: 'jpg,jpeg,png,gif',  //允许上传的文件式
+    showDone: false,                     //是否显示"Done"(完成)按钮
+    showDelete: true,                  //是否显示"Delete"(删除)按钮
+    onLoad: function(obj)
+    {
+        //页面加载时，onLoad回调。如果有需要在页面初始化时显示（比如：文件修改时）的文件需要在此方法中处理
+        obj.createProgress('/tmpImage.jpg');      //createProgress方法可以创建一个已上传的文件
+    },
+    deleteCallback: function(data,pd)
+    {
+        //文件删除时的回调方法。
+        //如：以下ajax方法为调用服务器端删除方法删除服务器端的文件
+        $.ajax({
+            cache: false,
+            url: "http://123.57.56.133:88/img/do_upload?uid=1",
+            type: "DELETE",
+            dataType: "json",
+            data: {file:data.url},
+            success: function(data) 
+            {
+                if(data.code===0){
+                    pd.statusbar.hide();        //删除成功后隐藏进度条等
+                    $('#image').val('');
+                 }else{
+                        console.log(data.message);  //打印服务器返回的错误信息
+                 }
+              }
+        }); 
+    },
+    onSuccess: function(files,data,xhr,pd)
+    {
+        //上传成功后的回调方法。本例中是将返回的文件名保到一个hidden类开的input中，以便后期数据处理
+        if(data&&data.code===0){
+            $('#image').val(data.url);
+        }
+    }
+});
+</script>-->
+<script>
+jQuery.fn.extend({
+    uploadPreview: function (opts) {
+        var _self = this,
+            _this = $(this);
+        opts = jQuery.extend({
+            Img: "ImgPr",
+            Width: 100,
+            Height: 100,
+            ImgType: ["gif", "jpeg", "jpg", "bmp", "png"],
+            Callback: function () {}
+        }, opts || {});
+        _self.getObjectURL = function (file) {
+            var url = null;
+            if (window.createObjectURL != undefined) {
+                url = window.createObjectURL(file)
+            } else if (window.URL != undefined) {
+                url = window.URL.createObjectURL(file)
+            } else if (window.webkitURL != undefined) {
+                url = window.webkitURL.createObjectURL(file)
+            }
+            return url
+        };
+        _this.change(function () {
+            if (this.value) {
+                if (!RegExp("\.(" + opts.ImgType.join("|") + ")$", "i").test(this.value.toLowerCase())) {
+                    alert("选择文件错误,图片类型必须是" + opts.ImgType.join("，") + "中的一种");
+                    this.value = "";
+                    return false
+                }
+                if ($.browser.msie) {
+                    try {
+                        $("#" + opts.Img).attr('src', _self.getObjectURL(this.files[0]))
+                    } catch (e) {
+                        var src = "";
+                        var obj = $("#" + opts.Img);
+                        var div = obj.parent("div")[0];
+                        _self.select();
+                        if (top != self) {
+                            window.parent.document.body.focus()
+                        } else {
+                            _self.blur()
+                        }
+                        src = document.selection.createRange().text;
+                        document.selection.empty();
+                        obj.hide();
+                        obj.parent("div").css({
+                            'filter': 'progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=scale)',
+                            'width': opts.Width + 'px',
+                            'height': opts.Height + 'px'
+                        });
+                        div.filters.item("DXImageTransform.Microsoft.AlphaImageLoader").src = src
+                    }
+                } else {
+                    $("#" + opts.Img).attr('src', _self.getObjectURL(this.files[0]))
+                }
+                opts.Callback()
+            }
+        })
+    }
+});
+</script>
+<script>
+$(function () {
+$("#up").uploadPreview({ Img: "ImgPr", Width: 120, Height: 120 });
+});
+</script>
+</head>
+
+<body class="back">
+<div id="header">
+	<div class="top">
+    	<div class="title">
+        	经纪人/经纪公司认证
+            <div class="return"><a href="javascript :;" onClick="javascript :history.back(-1);"><img src="images/top.png" width="12" /> 返回</a></div>
+        </div>
+    </div>
+</div>
+<div id="content">
+	<div id="tabBox2" class="tabBox1">
+		<div class="hd">
+			<ul>
+				<li><a href="javascript:void(0)">经纪人</a></li>
+                <li><a href="javascript:void(0)">经纪公司</a></li>
+			</ul>
+		</div>
+		<div class="bd" id="tabBox1-bd"><!-- 添加id，js用到 -->
+			<div class="con"><!-- 高度自适应需添加外层 -->
+				<div class="infoEdit">
+                    <form enctype="multipart/form-data" action="" method="post">
+                        <ul>
+                            <li><input type="text" class="nameText" name="userNmer" /><span>姓名</span></li>
+                            <li><input type="tel" class="nameText" name="userTel" /><span>联系方式</span></li>
+                            <li><span>证件类型</span>
+                                <div class="select"><label><input type="radio" name="name" class="radio" /><em>护照</em></label></div>
+                                <div class="select"><label><input type="radio" name="name" class="radio" checked="checked" /> <em>身份证</em></label></div>
+                            </li>
+                        </ul>
+                        <div class="Upload">
+                            <li>
+                            <a href="javascript:;" class="file">
+                            <div id="fileuploader">
+                            <div style="width:100%;margin:0px auto;"><h2>图片上传预览演示</h2>
+<div><img id="ImgPr" width="120" height="120" src="" /></div>
+<input type="file" id="up" />
+                            </div>
+                            </a>
+                            </li>
+                            <li>
+                            <a href="javascript:;" class="file">
+                            <img src="images/file.jpg" width="40%" /><br />请上传身份证反面
+                            <input type="file" name="" id="" />
+                            </a>
+                            </li>
+                            <li>
+                            <a href="javascript:;" class="file">
+                            <img src="images/file.jpg" width="40%" /><br />请上传经纪人证
+                            <input type="file" name="" id="" />
+                            </a>
+                            </li>
+                        </div>
+                        <div class="refer">
+                        <input type="submit" class="autRefer" value="提交" />
+                        </div>
+                    </form>
+                </div>		
+			</div>
+            <div class="con"><!-- 高度自适应需添加外层 -->
+				<div class="infoEdit">
+                    <form enctype="multipart/form-data" action="" method="post">
+                        <ul>
+                            <li><input type="text" class="nameText" name="userNmer" /><span>公司名称</span></li>
+                            <li><input type="text" class="nameText" name="userTel" /><span>法人姓名</span></li>
+                            <li><input type="tel" class="nameText" name="userTel" /><span>联系方式</span></li>
+                        </ul>
+                        <div class="Upload">
+                            <li>
+                            <a href="javascript:;" class="file">
+                            <img src="images/file.jpg" width="40%" /><br />请上传法人身份证正面
+                            <input type="file" name="" id="" />
+                            </a>
+                            </li>
+                            <li>
+                            <a href="javascript:;" class="file">
+                            <img src="images/file.jpg" width="40%" /><br />请上传法人身份证反面
+                            <input type="file" name="" id="" />
+                            </a>
+                            </li>
+                            <li>
+                            <a href="javascript:;" class="file">
+                            <img src="images/file.jpg" width="40%" /><br />请上传营业执照
+                            <input type="file" name="" id="" />
+                            </a>
+                            </li>
+                        </div>
+                        <div class="refer">
+                        <input type="submit" class="autRefer" value="提交" />
+                        </div>
+                    </form>
+                </div>		
+			</div>
+		</div>
+	</div>
+    <script type="text/javascript">
+			TouchSlide( { slideCell:"#tabBox2",
+
+				endFun:function(i){ //高度自适应
+					var bd = document.getElementById("tabBox1-bd");
+					bd.parentNode.style.height = bd.children[i].children[0].offsetHeight+"px";
+					if(i>0)bd.parentNode.style.transition="200ms";//添加动画效果
+				}
+
+			} );</script>
+</div>
+</body>
+</html>

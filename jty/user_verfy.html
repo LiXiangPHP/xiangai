@@ -1,0 +1,72 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+
+    <title></title>
+    <script type="text/javascript">
+        var xhr;
+        function createXMLHttpRequest()
+        {
+            if(window.ActiveXObject)
+            {
+                xhr = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            else if(window.XMLHttpRequest)
+            {
+                xhr = new XMLHttpRequest();
+            }
+        }
+
+
+        function UpladFile()
+        {
+            var fileObj = document.getElementById("file").files[0];
+            var FileController = 'http://123.57.56.133:88/img/do_upload?uid=1';
+            var form = new FormData();
+            form.append("userfile", fileObj);
+            createXMLHttpRequest();
+            xhr.onreadystatechange = handleStateChange;
+            xhr.open("post", FileController, true);
+            xhr.send(form);
+        }
+
+
+        function handleStateChange()
+        {
+            if(xhr.readyState == 4)
+            {
+                if (xhr.status == 200 || xhr.status == 0)
+                {
+                    var result = xhr.responseText;
+                    var json = eval("(" + result + ")");
+                    alert('图片链接:\n'+json.results.img);
+                }
+            }
+        }
+
+    </script>
+
+
+    <style>
+        .txt{ height:28px; border:1px solid #cdcdcd; width:670px;}
+        .mybtn{ background-color:#FFF; line-height:14px;vertical-align:middle;border:1px solid #CDCDCD;height:30px; width:70px;}
+        .file{ position:absolute; top:0; right:80px; height:24px; filter:alpha(opacity:0);opacity: 0;width:260px }
+    </style>
+
+</head>
+<body>
+<div class="form-group">
+    <label class="control-label">图片</label>
+    <br/>
+    <input type='text' name='textfield' id='textfield' class='txt' />
+    <span onClick="file.click()"  class="mybtn">浏览...</span>
+    <input type="file" name="file" class="file" id="file" size="28" onChange="document.getElementById('textfield').value=this.value" />
+    <span onClick="UpladFile()" class="mybtn">上传</span>
+</div>
+</body>
+</html>

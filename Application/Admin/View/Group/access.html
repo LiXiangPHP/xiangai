@@ -1,0 +1,97 @@
+<extend name="Public/base"/>
+<block name="main">
+	<div class="mainbar">
+
+				<!-- Page heading -->
+				<div class="page-head">
+					<h2 class="pull-left"><i class="icon-calendar"></i>权限管理</h2>
+					<!-- Breadcrumb -->
+					<div class="bread-crumb pull-right">
+						<a href=""><i class="icon-calendar"></i>权限管理</a>
+						<!-- Divider -->
+						<span class="divider">/</span>
+						<a href="javascript:void(0)" class="bread-current">权限管理</a>
+					</div>
+					<div class="clearfix"></div>
+
+				</div>
+				<!-- Page heading ends -->
+
+				<!-- Matter -->
+				<div class="matter">
+					<div class="container">
+						<!-- Table -->
+						<div class="row">
+							<div class="col-md-12">
+								<div class="widget">
+									<div class="widget-head">								
+										<div class="pull-left">
+											
+										</div>
+										<div class="pull-right">
+											<form class="navbar-form navbar-right" role="search">											
+												<div class="form-group">
+													<button onclick="saveRules()" type="button" class="btn btn-primary" style="width: 80px;"><i class="icon-plus"></i>&nbsp;保存</button>
+												</div>
+											</form>
+										</div>
+										<div class="clearfix"></div>
+									</div>
+									<div class="widget-content">
+										<input type="hidden" name="id" value="{$group.id}">
+										<volist name="ruleList" id="rule1">
+											<div class="panel panel-primary">
+											  <div class="panel-heading">
+											  	<label class="checkbox"><input type="checkbox" name="rule[]" value="{$rule1['id']}">{$rule1['title']}</label>
+											  </div>
+											  <volist name="rule1.children" id="rule2">
+											  <div class="panel-body">
+											    	<label class="checkbox" style="margin-left:20px;"><input type="checkbox" name="rule[]" value="{$rule2['id']}">{$rule2['title']}</label>
+											    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+													<volist name="rule2.children" id="rule3">
+											    		<label class="checkbox-inline"><input type="checkbox" <in name="rule3.id" value="$group['rules']">checked="checked"</in> name="rule[]" value="{$rule3['id']}">{$rule3['title']}</label>
+											    	</volist>
+											  </div>
+											  </volist>
+											</div>
+										</volist>
+									</div>
+								
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Matter ends -->
+			</div>
+
+</block>
+<block name="javascript">
+<script type="text/javascript">
+$(function() {
+	// 为所有类别为 checkbox的复选框绑定单击事件
+	$('div.panel :checkbox').bind('click', function() {
+		var $div=$(this).closest('div'); // div.panel-heading
+		var $label=$(this).parent(); // 父元素label
+		var checked=$(this).prop('checked');
+		if($div.is('.panel-heading')) { // 确定一级节点
+			$div.nextAll().find(':checkbox').prop('checked', checked);
+		} else {
+			if($label.is('.checkbox')) { // 确定二级节点
+				$label.nextAll('label').find(':checkbox').prop('checked', checked);
+			}
+		}
+	});
+});
+function saveRules() {
+	var data=$('div.widget-content :input').serialize();
+	$.post('{:U("accessDoit")}', data, function(data) {
+		if(data.status) {
+			location.href=data.url;
+		} else {
+			alert(data.info);
+		}
+	});
+}
+</script>
+</block>

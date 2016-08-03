@@ -1,0 +1,188 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+<title></title>
+<link href="/0714/Public/Home/css/style.css" type="text/css" rel="stylesheet" />
+<script src="/0714/Public/Home/js/TouchSlide.1.1.js" type="text/javascript"></script>
+<script src="/0714/Public/Home/js/jquery-1.11.2.min.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+<div id="header">
+	<div class="top">
+    	<div class="title">
+        	订单提交
+            <div class="return"><a href="javascript :;" onClick="javascript :history.back(-1);"><img src="/0714/Public/Home/images/top.png" width="12" /> 返回</a></div>
+        </div>
+    </div>
+</div>
+<div id="content">
+	<div class="info">
+    	<div class="BasicInfo">
+        	<div class="hearImg">
+            	<img src="/0714/Uploads/<?php echo ($goodsList['goods_thumb']); ?>" width="50%" height="50%"/>
+                <div class="posion"><img src="/0714/Public/Home/images/singer6.png" /></div>
+            </div>
+            <div class="right" style="padding:0">
+            	<div class="singerNmae">
+                	<span class="daimio">订单详情</span>
+                    <span class="intro">知名无伴奏组合</span>
+                    <div class="label">
+                    	<em>颜色</em><em>尺寸</em><em>评价</em>
+                    </div>
+                </div>
+                <div class="Price">
+                	<div class="money">￥<?php echo ($goodsList['goods_price']); ?><span>/件</span> <s style="font-size:12px; color:#999">￥<?php echo ($goodsList['goods_price']); ?>/件</s></div>
+                    <div class="company">世纪飞歌文化</div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<div class="gray"></div>
+    <div class="form">
+		<form action="<?php echo U('order/addorder');?>" id="orderform" enctype="multipart/form-data" method="post">
+			<dl>
+				<input type="hidden" name='goods_id' value="<?php echo ($goodsList['id']); ?>"/>
+                <input type="hidden" name="order_amount" value='98' />
+            	<dd><span>姓名</span>
+                	<input type="text" name="consignee" placeholder="请输入姓名" />
+                </dd>
+                <dd><span>收货地点</span>
+                <div style="float:right;">
+				
+					
+                	<select name="country" id="country" style="width:auto">
+						<option value="0">-国家-</option>
+						<?php if(is_array($country)): $i = 0; $__LIST__ = $country;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$val): $mod = ($i % 2 );++$i;?><option value="<?php echo ($val['region_id']); ?>">-<?php echo ($val['region_name']); ?>-</option><?php endforeach; endif; else: echo "" ;endif; ?>
+					</select>
+					<select name="p" id="p" style="width:auto">
+						<option value="0">-省份-</option>
+					</select>
+					<select name="c" id="c" style="width:auto">
+						<option value="0">-城市-</option>
+					</select>
+					<select name="d" id="d" style="width:auto">
+						<option value="0">-地区-</option>
+					</select> 
+                </div>
+                </dd>
+                   
+                </dd>
+                <dd>
+                	<span>联系方式</span>
+                	<input type="text" name="mobile" placeholder="请输入联系方式" />
+                </dd>
+				<dd>
+                	<span>快递方式</span>
+                	<select dir="rtl" name='shipping'>
+                    	<option selected="true"  value="5" style="color:#999">申通快递</option>
+                        <option value="3" style="color:#999">城际快递</option>
+                    </select>
+                </dd>
+                <dd>
+                	<span>购买数量</span>
+                	<input type="text" name="number" id="number" value="1"/>
+                </dd>
+                
+                <dd>
+                	<span style="top:0; margin-top:0;">备注</span>
+                	<textarea placeholder="说明文字在30字一下"></textarea>
+                </dd>
+            </dl>
+            <div class="gray"></div>
+            <dl>
+            	<dd>
+                	<span>支付方式</span>
+                </dd>
+                <dd style="padding:5px 0;">
+                	<div class="payMethod">
+                    <label>
+                    	<div class="leftInfo">
+                        	<table cellpadding="0" cellspacing="0" border="0">
+                            	<tr>
+                                	<td width="50"><img src="/0714/Public/Home/images/pay1.jpg" width="35" /></td>
+                                    <td><p style="font-size:18px; color:#333333; line-height:30px;">支付宝</p><p style="color:#999999; font-size:14px;">推荐支付宝用户使用</p></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <input type="radio" name="name1" class="radioPay" checked="checked" />
+                    </label>
+                    </div>
+                </dd>
+                <dd style="padding:5px 0;">
+                	<div class="payMethod">
+                    <label>
+                    	<div class="leftInfo">
+                        	<table cellpadding="0" cellspacing="0" border="0">
+                            	<tr>
+                                	<td width="50"><img src="/0714/Public/Home/images/pay2.jpg" width="35" /></td>
+                                    <td><p style="font-size:18px; color:#333333; line-height:30px;">微信支付</p><p style="color:#999999; font-size:14px;">推荐已安装微信客户端的用户使用</p></td>
+                                </tr>
+                            </table>
+                        </div>
+                        <input type="radio" name="pay_name" class="radioPay" />
+                    </label>
+                    </div>
+                </dd>
+            </dl>        
+        </form> 
+    </div>
+    <div class="gray"></div>
+</div>
+<div id="footer"></div>
+<div class="booking">
+	<span>总金额：<font>￥<?php echo ($goodsList['goods_price']); ?></font></span>
+    <a href="javascript:;" onclick="$('#Form1').fadeIn()">立即支付</a>
+</div>
+<div class="prompt1" id="Form1" style="display:none;">
+	<div class="proBox">
+    	<h5>温馨提示</h5><br />
+		<p>支付成功后，歌手接单之前，无法取消订单，继续支付？</p>
+        <div>
+        	<a href="javascript:;" onclick="$('#Form1').fadeOut()">取消</a>
+            <a><input type="button" value="确定" style="float:left; width:100%; text-align:center; border:0; background:none; height:30px; line-height:30px; font-size:14px;" onclick="$('#orderform').submit();"/></a> 
+        </div>
+    </div>
+</div>
+</body>
+</html>
+<script>
+   $('#country,#p,#c').bind('change',function(){
+   var data=$(this).serialize();
+    var $next = $(this).nextAll('select'); 
+		
+        $next.each(function() {
+            this.options.length=1;
+        });
+		
+        if($(this).val()<=0) {
+            return; 
+        }
+        $.post('<?php echo U("region");?>', data, function(data) {
+            $next.eq(0).html(data);
+        },'html'); 
+});
+	//订单总额
+	$('#number').bind('blur',function(){
+	
+		var number=$(this).val();
+		
+		var price='<?php echo ($goodsList['goods_price']); ?>';
+		var total=price*number;
+		
+		$('div.booking font').html('￥'+total.toFixed(2));
+		$('[name=order_amount]').val(total);
+	
+	});
+		
+		
+		
+
+
+</script>

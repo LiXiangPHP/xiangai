@@ -1,0 +1,19 @@
+<extend name="Public/base"/>
+<block name="main">
+<div id="show"></div>
+</block>
+<block name="javascript">
+<script type="text/javascript" charset="utf-8">
+	function ajax(p) {
+		$.get('{:U("page")}', {p:p}, function(data) {
+			$('#show').html(data);
+			$('#show1 a,#show1 span').unwrap().wrap('<li></li>');
+		});
+		// $('#show').load('{:U("page")}?p='+p);
+		<!-- $('#show').load('{:U("page")}', 'p='+p);  -->
+		
+		
+	}
+	ajax(1); 
+</script>
+</block>

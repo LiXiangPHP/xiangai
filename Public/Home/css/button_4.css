@@ -1,0 +1,252 @@
+﻿.btn_a1, .btn_a2, .btn_a3, .btn_b1, .btn_b2, .btn_b3, .btn_c1, .btn_c2, .btn_c3, .btn_c3_not {
+    background: url("../images/buttons.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    line-height: normal;
+    outline: medium none;
+    vertical-align: middle;
+}
+.btn_a1, .btn_a1:visited, .btn_a1:hover, .btn_a2, .btn_a2:visited, .btn_a2:hover, .btn_a3, .btn_a3:visited, .btn_a3:hover, .btn_b1, .btn_b1:visited, .btn_b1:hover, .btn_b2, .btn_b2:visited, .btn_b2:hover, .btn_b3, .btn_b3:visited, .btn_b3:hover, .btn_c1, .btn_c1:visited, .btn_c1:hover, .btn_c2, .btn_c2:visited, .btn_c2:hover, .btn_c3, .btn_c3:visited, .btn_c3:hover, .btn_c3_not, .btn_c3_not:visited, .btn_c3_not:hover {
+    text-decoration: none;
+}
+.btn_a1 span, .btn_a1 button, .btn_a1 input, .btn_a2 span, .btn_a2 button, .btn_a2 input, .btn_a3 span, .btn_a3 button, .btn_a3 input, .btn_b1 span, .btn_b1 button, .btn_b1 input, .btn_b2 span, .btn_b2 button, .btn_b2 input, .btn_b3 span, .btn_b3 button, .btn_b3 input, .btn_c1 span, .btn_c1 button, .btn_c1 input, .btn_c2 span, .btn_c2 button, .btn_c2 input, .btn_c3 span, .btn_c3 button, .btn_c3 input, .btn_c3_not span, .btn_c3_not button, .btn_c3_not input {
+    background: url("../images/buttons.png") no-repeat scroll 0 0 #FFFFFF;
+    border: medium none;
+    cursor: pointer;
+    display: inline-block;
+    height: 100%;
+    margin: 0;
+    outline: medium none;
+    text-decoration: none;
+}
+.sidemod .btn_a1 span, .sidemod .btn_a1 button, .sidemod .btn_a1 input, .sidemod .btn_a2 span, .sidemod .btn_a2 button, .sidemod .btn_a2 input, .sidemod .btn_a3 span, .sidemod .btn_a3 button, .sidemod .btn_a3 input, .sidemod .btn_b1 span, .sidemod .btn_b1 button, .sidemod .btn_b1 input, .sidemod .btn_b2 span, .sidemod .btn_b2 button, .sidemod .btn_b2 input, .sidemod .btn_b3 span, .sidemod .btn_b3 button, .sidemod .btn_b3 input, .sidemod .btn_c1 span, .sidemod .btn_c1 button, .sidemod .btn_c1 input, .sidemod .btn_c2 span, .sidemod .btn_c2 button, .sidemod .btn_c2 input, .sidemod .btn_c3 span, .sidemod .btn_c3 button, .sidemod .btn_c3 input, .sidemod .btn_c3_not span, .sidemod .btn_c3_not button, .sidemod .btn_c3_not input {
+    background-color: #F7F7F7;
+}
+.btn_a1 *::-moz-focus-inner, .btn_a2 *::-moz-focus-inner, .btn_a3 *::-moz-focus-inner, .btn_b1 *::-moz-focus-inner, .btn_b2 *::-moz-focus-inner, .btn_b3 *::-moz-focus-inner, .btn_c1 *::-moz-focus-inner, .btn_c2 *::-moz-focus-inner, .btn_c3 *::-moz-focus-inner, .btn_c3_not *::-moz-focus-inner {
+    border: medium none;
+}
+.btn_a1 button, .btn_a1 input, .btn_a2 button, .btn_a2 input, .btn_a3 button, .btn_a3 input, .btn_b1 button, .btn_b1 input, .btn_b2 button, .btn_b2 input, .btn_b3 button, .btn_b3 input, .btn_c1 button, .btn_c1 input, .btn_c2 button, .btn_c2 input, .btn_c3 button, .btn_c3 input, .btn_c3_not button, .btn_c3_not input {
+    padding-bottom: 2px !important;
+}
+.btn_a1 span, .btn_a1 button, .btn_a1 input, .btn_b1 span, .btn_b1 button, .btn_b1 input, .btn_c1 span, .btn_c1 button, .btn_c1 input {
+    color: #FFFFFF;
+}
+.btn_a2 span, .btn_a2 button, .btn_a2 input, .btn_b2 span, .btn_b2 button, .btn_b2 input, .btn_c2 span, .btn_c2 button, .btn_c2 input {
+    color: #7B5035;
+}
+.btn_a3 span, .btn_a3 button, .btn_a3 input, .btn_b3 span, .btn_b3 button, .btn_b3 input, .btn_c3 span, .btn_c3 button, .btn_c3 input {
+    color: #666666;
+}
+.btn_c3_not span, .btn_c3_not button, .btn_c3_not input {
+    color: #C8C8C8;
+}
+.btn_a1, .btn_a2, .btn_a3 {
+    height: 35px;
+    padding: 0 6px 0 0;
+}
+.btn_a1 span, .btn_a1 button, .btn_a1 input, .btn_a2 span, .btn_a2 button, .btn_a2 input, .btn_a3 span, .btn_a3 button, .btn_a3 input {
+    font: 700 14px/34px Tahoma;
+    padding: 0 14px 0 20px;
+}
+.btn_a1 {
+    background-position: 100% 0;
+}
+.btn_a1:hover {
+    background-position: 100% -45px;
+}
+.btn_a1 span, .btn_a1 button, .btn_a1 input {
+    background-position: 0 0;
+}
+.btn_a1:hover span, .btn_a1:hover button, .btn_a1:hover input {
+    background-position: 0 -45px;
+}
+.btn_a1 button:active, .btn_a1 input:active {
+}
+.btn_a2 {
+    background-position: 100% -90px;
+}
+.btn_a2:hover {
+    background-position: 100% -135px;
+}
+.btn_a2 span, .btn_a2 button, .btn_a2 input {
+    background-position: 0 -90px;
+}
+.btn_a2:hover span, .btn_a2:hover button, .btn_a2:hover input {
+    background-position: 0 -135px;
+}
+.btn_a2 button:active, .btn_a2 input:active {
+}
+.btn_a3 {
+    background-position: 100% -180px;
+}
+.btn_a3:hover {
+    background-position: 100% -225px;
+}
+.btn_a3 span, .btn_a3 button, .btn_a3 input {
+    background-position: 0 -180px;
+}
+.btn_a3:hover span, .btn_a3:hover button, .btn_a3:hover input {
+    background-position: 0 -225px;
+}
+.btn_a3 button:active, .btn_a3 input:active {
+}
+.btn_b1, .btn_b2, .btn_b3 {
+    height: 30px;
+    padding: 0 5px 0 0;
+}
+.btn_b1 span, .btn_b1 button, .btn_b1 input, .btn_b2 span, .btn_b2 button, .btn_b2 input, .btn_b3 span, .btn_b3 button, .btn_b3 input {
+    font: 700 12px/29px Tahoma;
+    padding: 0 9px 0 14px;
+}
+.btn_b1 {
+    background-position: 100% -270px;
+}
+.btn_b1:hover {
+    background-position: 100% -310px;
+}
+.btn_b1 span, .btn_b1 button, .btn_b1 input {
+    background-position: 0 -270px;
+}
+.btn_b1:hover span, .btn_b1:hover button, .btn_b1:hover input {
+    background-position: 0 -310px;
+}
+.btn_b1 button:active, .btn_b1 input:active {
+}
+.btn_b2 {
+    background-position: 100% -350px;
+}
+.btn_b2:hover {
+    background-position: 100% -390px;
+}
+.btn_b2 span, .btn_b2 button, .btn_b2 input {
+    background-position: 0 -350px;
+}
+.btn_b2:hover span, .btn_b2:hover button, .btn_b2:hover input {
+    background-position: 0 -390px;
+}
+.btn_b2 button:active, .btn_b2 input:active {
+}
+.btn_b3 {
+    background-position: 100% -430px;
+}
+.btn_b3:hover {
+    background-position: 100% -470px;
+}
+.btn_b3 span, .btn_b3 button, .btn_b3 input {
+    background-position: 0 -430px;
+}
+.btn_b3:hover span, .btn_b3:hover button, .btn_b3:hover input {
+    background-position: 0 -470px;
+}
+.btn_b3 button:active, .btn_b3 input:active {
+}
+.btn_c1, .btn_c2, .btn_c3, .btn_c3_not {
+    height: 23px;
+    padding: 0 4px 0 0;
+}
+.btn_c1 span, .btn_c1 button, .btn_c1 input, .btn_c2 span, .btn_c2 button, .btn_c2 input, .btn_c3 span, .btn_c3 button, .btn_c3 input, .btn_c3_not span, .btn_c3_not button, .btn_c3_not input {
+    font: 400 12px/22px Tahoma;
+    padding: 0 8px 0 12px;
+}
+.btn_c1 {
+    background-position: 100% -510px;
+}
+.btn_c1:hover {
+    background-position: 100% -545px;
+}
+.btn_c1 span, .btn_c1 button, .btn_c1 input {
+    background-position: 0 -510px;
+}
+.btn_c1:hover span, .btn_c1:hover button, .btn_c1:hover input {
+    background-position: 0 -545px;
+}
+.btn_c1 button:active, .btn_c1 input:active {
+}
+.btn_c2 {
+    background-position: 100% -580px;
+}
+.btn_c2:hover {
+    background-position: 100% -615px;
+}
+.btn_c2 span, .btn_c2 button, .btn_c2 input {
+    background-position: 0 -580px;
+}
+.btn_c2:hover span, .btn_c2:hover button, .btn_c2:hover input {
+    background-position: 0 -615px;
+}
+.btn_c2 button:active, .btn_c2 input:active {
+}
+.btn_c3 {
+    background-position: 100% -650px;
+}
+.btn_c3:hover {
+    background-position: 100% -685px;
+}
+.btn_c3 span, .btn_c3 button, .btn_c3 input {
+    background-position: 0 -650px;
+}
+.btn_c3:hover span, .btn_c3:hover button, .btn_c3:hover input {
+    background-position: 0 -685px;
+}
+.btn_c3 button:active, .btn_c3 input:active {
+}
+.btn_c3_not {
+    background-position: 100% -720px;
+}
+.btn_c3_not:hover {
+    background-position: 100% -685px;
+}
+.btn_c3_not span, .btn_c3_not button, .btn_c3_not input {
+    background-position: 0 -720px;
+}
+.btn_c3_not:hover span, .btn_c3_not:hover button, .btn_c3_not:hover input {
+    background-position: 0 -685px;
+}
+.btn_c3_not button:active, .btn_c3_not input:active {
+}
+
+/* user_elite_list ie6 12.12 */
+.img_list {
+    border: 1px solid #F5F5F7;
+    float: left;
+    height: 145px;
+    margin: 10px 3px 5px 6px;
+    overflow: hidden;
+    padding: 1px;
+    text-align: center;
+    width: 85px;
+_width:82px;
+overflow:hidden;
+}
+.member .left{overflow:hidden;}
+
+/* weibo index for ie6 */
+.lhead{ width:75px; height:105px; overflow:hidden; float:left; text-align:center; margin:0px 6px 5px 5px; _margin:0px 5px 5px 5px;}
+.lian1{overflow:hidden;}
+
+
+/* �����ϴ�ͼƬ��ťinput type = file */
+.filePrew {
+    border: 1px solid #D4D4D4;
+    font-size: 12px;
+    line-height: 15px;
+    padding: 5px 1px;
+    vertical-align: middle;
+    width: 250px;
+}
+
+.tb-home td{font-size:12px;}
+.tb td{font-size:12px;}
+.viptb td{font-size:12px;}
+
+/* cp */
+.zx .zright .seeleft .h ul li,.zx .zright .seeright .h ul li{width:84px;}
+
+/* weibo */
+.bo3.comments .bc .user{ display:block; width:65px; float:left; height:61px; position: relative; text-align:left;}
+.bo3.comments .bc .user img{ width:50px; height:61px;}
+.bo3.comments .weinei1{ font-size:12px;}
+.bo3.comments .weinei2{ font-size:12px;}
+.bo3.comments .weinei3{ font-size:12px;}

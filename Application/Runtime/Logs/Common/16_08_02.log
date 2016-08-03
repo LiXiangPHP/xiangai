@@ -1,0 +1,12 @@
+[ 2016-08-02T11:03:47+08:00 ] 127.0.0.1 /0714/index.php/Order/ordersearch.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Order
+
+[ 2016-08-02T11:09:57+08:00 ] 127.0.0.1 /0714/index.php/goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Goods
+
