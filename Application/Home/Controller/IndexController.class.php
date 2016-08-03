@@ -10,8 +10,14 @@ class IndexController extends Controller {
     	$password=I('post.password', '', 'trim');
     	$model=M('users');
 		$user=$model->where('username='.$loginfo)->fetchsql(false)->select();
-		// var_dump($user) ;die;
-		
+		$loginfolen=strlen($loginfo);
+		$passwordlen=strlen($password);
+		if($loginfolen!=11){
+			$this->error('手机号输入有误，须11位');
+		}
+		if($passwordlen<6){
+			$this->error('密码不能少于6位');
+		}
 		if(!empty($user)){
 			$this->error('帐号已存在，请重新输入');
 		}
