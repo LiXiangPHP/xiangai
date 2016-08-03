@@ -5,23 +5,23 @@ class IndexController extends Controller {
     function index() {
         $this->display();
     }
-    public function page(){
-        $goodsModel=D('goods1');
-        $page=I('get.p', 1, 'intval');
-        $cid=I('get.cid', 0, 'intval');
-        $pagesize=5;
-        $where=array();
-        if($cid>0) {
-            // 当前分类是一级分类, 需要将所有的后代分类查询出来
-            $Acate=A('Admin/category');
-            $array=$Acate->toTree($cid);
-            $where=['cate_id'=>['in', $array]];
-        }
-        $this->goodsList=$goodsModel->where($where)->page($page, $pagesize)->select();
-        // echo $goodsModel->getlastsql();
-        if(empty($this->goodsList)) {
-            exit('');
-        }
-        $this->display();
+   public function registerDoit() {
+    	$loginfo=I('post.loginInfo', '', 'trim');
+    	$password=I('post.password', '', 'trim');
+    	$model=M('users');
+		$user=$model->where('username='.$loginfo)->fetchsql(false)->select();
+		// var_dump($user) ;die;
+		
+		if(!empty($user)){
+			$this->error('帐号已存在，请重新输入');
+		}
+		$_POST['regtime']=date('Y-m-d H:i:s');
+		$_POST['username']=$loginfo;
+    	$_POST['password']=md5($_POST['password']);
+    	if($model->add($_POST)) {
+    		$this->success('注册成功');
+    	} else {
+    		$this->error('注册失败');
+    	}
     }
 }
