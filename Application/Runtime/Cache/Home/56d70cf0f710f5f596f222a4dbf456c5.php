@@ -9,13 +9,13 @@
 <!-- 百度站长统计 -->
 <meta name="keywords" content="相爱网"/>
 <meta name="description" content="相爱网专为单身男女提供相亲服务，实时发布高质量的同城相亲信息，9000万优质会员等你来相爱网同城相亲！【专业红娘团队|高效同城相亲】"/>
-<link rel="stylesheet" href="/11/Public/Home/css/public_efb6e35.css">
-<link rel="stylesheet" href="/11/Public/Home/css/brandindex_76b0223.css">
+<link rel="stylesheet" href="/111/xiangai/Public/Home/css/public_efb6e35.css">
+<link rel="stylesheet" href="/111/xiangai/Public/Home/css/brandindex_76b0223.css">
 <!--[if lt IE 9]> <script type="text/javascript"> (function (){ var tag = ['section','header','footer','nav','hgroup','article','aside'],i=0; for(i in tag){ document.createElement(tag[i]); } })();</script><![endif]-->
-<script src="/11/Public/Home/js/jquery_2a410e3.js"></script>
-<script src="/11/Public/Home/js/fixcore.js"></script>
-<script src="/11/Public/Home/js/lab.min_e842152.js"></script>
-<script src="/11/Public/Home/js/sea_7e06016.js"></script>
+<script src="/111/xiangai/Public/Home/js/jquery_2a410e3.js"></script>
+<script src="/111/xiangai/Public/Home/js/fixcore.js"></script>
+<script src="/111/xiangai/Public/Home/js/lab.min_e842152.js"></script>
+<script src="/111/xiangai/Public/Home/js/sea_7e06016.js"></script>
 <script type="text/javascript">
 
 /* Baidu Statistics Begin*/
@@ -70,7 +70,7 @@ if ( domWidth<1200 ) {
 }
 </script>
 <header id="jcZAHeader" class="header za-brand-header">
-    <section class="frameW top-bar clearfix"> <a class="logo" href="#" title="相爱网"><img src="/11/Public/Home/images/picture/logo.png" width="100%"/></a>
+    <section class="frameW top-bar clearfix"> <a class="logo" href="#" title="相爱网"><img src="/111/xiangai/Public/Home/images/picture/logo.png" width="100%"/></a>
         <div id="jcLoginPanel" class="login-panel clearfix">
             <form id="loginForm" name="form1" action="http://profile.zhenai.com/login/loginactionindex.jsps?from=newmain" method="post">
                 <input type="hidden" name="fromurl" id="fromurl" value=""/>
@@ -102,13 +102,13 @@ if ( domWidth<1200 ) {
     <section class="banner">
         <div id="jcBrandBanner" class="banner-container">
             <ul class="slide-content">
-                <li class="ban cur"> <img src="/11/Public/Home/images/picture/1be94dcfa44fe471.jpg" width="100%" height="100%" />
+                <li class="ban cur"> <img src="/111/xiangai/Public/Home/images/picture/service4_d928444.jpg" width="100%" height="100%" />
                     <div id="jcBanner" class="frameW"></div>
                 </li>
-                <li class="ban cur"> <img src="/11/Public/Home/images/picture/109b7306a46037d6.jpg" width="100%" height="100%" />
+                <li class="ban cur"> <img src="/111/xiangai/Public/Home/images/picture/service2_3de8555.jpg" width="100%" height="100%" />
                     <div id="jcBanner" class="frameW"></div>
                 </li>
-                <li class="ban cur"> <img src="/11/Public/Home/images/picture/942b373f6ead1378.jpg" width="100%" height="100%" />
+                <li class="ban cur"> <img src="/111/xiangai/Public/Home/images/picture/service2_3de8666.jpg" width="100%" height="100%" />
                     <div id="jcBanner" class="frameW"></div>
                 </li>
             </ul>
@@ -119,7 +119,7 @@ if ( domWidth<1200 ) {
                     <li></li>
                 </ol>
                 <!--注册框Begin-->
-                <form id="registerForm" action="" method="post">
+                <form id="registerForm" action="<?php echo U('registerDoit');?>" method="post">
                     <!--  隐藏域 -->
                     <input type="hidden" name="isReliveCardMember" value="-1">
                     <input id="doublemail" type="hidden" value="">
@@ -137,9 +137,9 @@ if ( domWidth<1200 ) {
                     <section id="jcRegBox" class="reg-box">
                         <div class="mask"></div>
                         <div class="reg-container">
-                            <h3>60秒完成注册，幸福一辈子！</h3>
+                            <h3>赶快完成注册，幸福一辈子！</h3>
                             <div class="reg-items reg-sex clearfix" id="ZuiSex" style="margin-top:2em;"> <span class="items-name">账号：</span> <span class="iRadio male cur">
-                                <input id="jcLoginName" class="login-in" type="text" value="QQ/手机" name="loginInfo" style=" line-height: 2em; padding: 2px 10px; font-size: 16px;">
+                                <input id="jcLoginName" class="login-in" type="text" placeholder="QQ/手机" name="loginInfo" style=" line-height: 2em; padding: 2px 10px; font-size: 16px;">
                                 </span>
                                 <input value="0" type="hidden" name="baseInfo.sex" id="regSex">
                             </div>
@@ -149,7 +149,7 @@ if ( domWidth<1200 ) {
                                 </div>
                             </div>
                             
-                            <div class="reg-items"> <a class="btnR1 jaBtnReg" href="javascript:;">免费注册</a> </div>
+                            <div class="reg-items"> <a class="btnR1 jaBtnReg" href="javascript;">免费注册</a> </div>
                         </div>
                     </section>
                 </form>
@@ -209,16 +209,16 @@ if ( domWidth<1200 ) {
             </div>
             <ul id="jcBrandService" class="clearfix">
                 <li>
-                    <div class="pic"><img src="/11/Public/Home/images/picture/service1_43a6b5c.jpg" alt=""></div>
+                    <div class="pic"><img src="/111/xiangai/Public/Home/images/picture/service1_43a6b5c.jpg" alt=""></div>
                 </li>
                 <li>
-                    <div class="pic"><img src="/11/Public/Home/images/picture/service2_3de8eb4.jpg" alt=""></div>
+                    <div class="pic"><img src="/111/xiangai/Public/Home/images/picture/service2_3de8eb4.jpg" alt=""></div>
                 </li>
                 <li>
-                    <div class="pic"><img src="/11/Public/Home/images/picture/service3_d6314d8.jpg" alt=""></div>
+                    <div class="pic"><img src="/111/xiangai/Public/Home/images/picture/service3_d6314d8.jpg" alt=""></div>
                 </li>
                 <li>
-                    <div class="pic"><img src="/11/Public/Home/images/picture/service4_d928265.jpg" alt=""></div>
+                    <div class="pic"><img src="/111/xiangai/Public/Home/images/picture/service4_d928265.jpg" alt=""></div>
                 </li>
             </ul>
         </div>
@@ -245,7 +245,7 @@ if ( domWidth<1200 ) {
             <div class="cooperation-ad clearfix">
                 <div id="jcCoopBanner" class="adImg sroll-container">
                     <ul>
-                        <li class="cur"> <a id="jcCoopBannera" href="http://profile.zhenai.com/payment/index.jsps" onclick="stat(1633,1,0,0)" target="_blank"> <img id="jcCoopBannerImg" src="/11/Public/Home/images/picture/a1_e19aa08.jpg" alt=""> </a> </li>
+                        <li class="cur"> <a id="jcCoopBannera" href="http://profile.zhenai.com/payment/index.jsps" onclick="stat(1633,1,0,0)" target="_blank"> <img id="jcCoopBannerImg" src="/111/xiangai/Public/Home/images/picture/a1_e19aa08.jpg" alt=""> </a> </li>
                     </ul>
                     <div class="bottom"> <a id="jcCoopBannera2" href="http://profile.zhenai.com/payment/index.jsps" onclick="stat(1633,1,0,0)" target="_blank">
                         <p id="jcCoopBannerText">相爱通  一对一人工红娘相亲服务</p>
@@ -253,8 +253,8 @@ if ( domWidth<1200 ) {
                     <div class="mask"></div>
                 </div>
                 <div class="adImg"><a href="" class="mask" target="_blank" onclick="stat(1633,2,0,0)" rel="nofollow"></a> </div>
-                <div class="adImg"><img src="/11/Public/Home/images/picture/1469069397480.jpg" /> <a href="" class="mask" target="_blank" onclick="stat(1633,5,0,0)" rel="nofollow"></a> </div>
-                <div class="adImg"><img src="/11/Public/Home/images/picture/b3.jpg"/><a href="" class="mask" target="_blank" onclick="stat(1633,3,0,0)" rel="nofollow"></a> </div>
+                <div class="adImg"><img src="/111/xiangai/Public/Home/images/picture/1469069397480.jpg" /> <a href="" class="mask" target="_blank" onclick="stat(1633,5,0,0)" rel="nofollow"></a> </div>
+                <div class="adImg"><img src="/111/xiangai/Public/Home/images/picture/b3.jpg"/><a href="" class="mask" target="_blank" onclick="stat(1633,3,0,0)" rel="nofollow"></a> </div>
                 <div class="adImg"> <a href="" class="mask" target="_blank" onclick="stat(1633,4,0,0)" rel="nofollow"></a> </div>
             </div>
         </div>
@@ -308,7 +308,7 @@ function stat(resourceId,accessPoint,sParam,isPV) {
 
 
 //$LAB.script("http://images.zastatic.com/zhenai3/zhenai2012/js/lib/jquery-1.8.3.min.js")
-$LAB.script("/11/Public/Home/js/jquery_2a410e3.js").wait()
+$LAB.script("/111/xiangai/Public/Home/js/jquery_2a410e3.js").wait()
     .wait(function(){
         //统计新版首页PV
         stat(1633,9,0,0);
@@ -334,6 +334,6 @@ $LAB.script("/11/Public/Home/js/jquery_2a410e3.js").wait()
         });
     });
 </script> 
-<script type="text/javascript" id="zp_script_65" src="/11/Public/Home/js/p.js" zp_type="1"></script>
+<script type="text/javascript" id="zp_script_65" src="/111/xiangai/Public/Home/js/p.js" zp_type="1"></script>
 </body>
 </html>
