@@ -1,6 +1,6 @@
 <?php
     session_start();
-echo '<hr>';
+echo '<hr>';   
 
     $_SESSION['admin']='123456789';
 
