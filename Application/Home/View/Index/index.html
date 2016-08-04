@@ -1,5 +1,8 @@
+<?php
 
+var_dump()
 
+?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -71,8 +74,14 @@ if ( domWidth<1200 ) {
 </script>
 <header id="jcZAHeader" class="header za-brand-header">
     <section class="frameW top-bar clearfix"> <a class="logo" href="#" title="相爱网"><img src="__IMG__/picture/logo.png" width="100%"/></a>
+        <?php
+        if (empty($_SESSION['user']['username'])) {
+         
+       
+
+        ?>
         <div id="jcLoginPanel" class="login-panel clearfix">
-            <form id="loginForm" name="form1" action="http://profile.zhenai.com/login/loginactionindex.jsps?from=newmain" method="post">
+            <form id="loginForm" name="form1" action="{:U('login')}" method="post">
                 <input type="hidden" name="fromurl" id="fromurl" value=""/>
                 <input type="hidden" name="whichTV" id="whichTV" value=""/>
                 <input type="hidden" name="fid" id="fid" value=""/>
@@ -82,20 +91,32 @@ if ( domWidth<1200 ) {
                 <input type="hidden" name="whereLogin" id="whereLogin" value="index"/>
                 <div class="login-form">
                     <div class="login-items">
-                        <input id="jcLoginName" class="login-in" type="text" value="QQ/手机" name="loginInfo">
+                        <input id="jcLoginName" class="login-in" type="text" placeholder="QQ/手机" name="username">
                         <br>
                         <span class="error-tips">用户名不能为空</span> </div>
                     <div class="login-items">
-                        <input id="jcLoginPass" class="login-in" type="password" name="password">
+                        <input id="jcLoginPass" class="login-in" type="password" name="password" placeholder="密码">
                         <br>
                         <div class="lgin-next">
                             <input type="checkbox" name="autoLogin" id="nextLogin">
                             <label for="nextLogin">下次自动登录</label>
                         </div>
-                        <a href="http://register.zhenai.com/login/findPasswordNav.jsps" class="forget" rel="nofollow">忘记密码？</a> <span class="pass-txt">密码</span> </div>
-                    <a href="javascript:;" class="btnP2 login-btn">登录</a> <a class="login-by-qq" href="http://connect.zhenai.com/qq/login.x?fromurl=" title="QQ号登录"  target="_blank" rel="nofollow"></a> <a class="login-by-weibo" href="http://static.zhenai.com/weibo/login.jsps?fromurl=" title="微博号登录"  target="_blank" rel="nofollow"></a> </div>
+                        <a href="http://register.zhenai.com/login/findPasswordNav.jsps" class="forget" rel="nofollow">忘记密码？</a> <span class="pass-txt"></span> </div>
+                        <a><input type='submit'  class="btnP2 login-btn" value='登陆'/></a>
+                   <a class="login-by-qq" href="http://connect.zhenai.com/qq/login.x?fromurl=" title="QQ号登录"  target="_blank" rel="nofollow"></a>
+                     <a class="login-by-weibo" href="http://static.zhenai.com/weibo/login.jsps?fromurl=" title="微博号登录"  target="_blank" rel="nofollow"></a> </div>
             </form>
         </div>
+    <?php
+        }else{
+        ?>
+         <div id="jcLoginPanel" class="login-panel clearfix">
+            <div align='right'>欢迎,  <?=$_SESSION['user']['username'];?> <a href="{:U('logout')}">退出</a></div>
+
+        </div>
+   <?php
+    }
+    ?>
     </section>
 </header>
 <article class="za-brand-wraper">
@@ -119,7 +140,7 @@ if ( domWidth<1200 ) {
                     <li></li>
                 </ol>
                 <!--注册框Begin-->
-                <form id="registerForm" action="{:U('registerDoit')}" method="post">
+                <form id="registerForm" action="" method="post">
                     <!--  隐藏域 -->
                     <input type="hidden" name="isReliveCardMember" value="-1">
                     <input id="doublemail" type="hidden" value="">
@@ -135,8 +156,22 @@ if ( domWidth<1200 ) {
                     <!--  隐藏域 -->
                     
                     <section id="jcRegBox" class="reg-box">
-                        <div class="mask"></div>
-                        <div class="reg-container">
+                        <div class="mask" style='display:<?php
+                        if ($_SESSION['user']) {
+                            echo "none";
+                        }else{
+                            echo "true";
+                        }
+
+                        ?>'></div>
+                        <div class="reg-container" style='display:<?php
+                        if ($_SESSION['user']) {
+                            echo "none";
+                        }else{
+                            echo "true";
+                        }
+
+                        ?>'>
                             <h3>赶快完成注册，幸福一辈子！</h3>
                             <div class="reg-items reg-sex clearfix" id="ZuiSex" style="margin-top:2em;"> <span class="items-name">账号：</span> <span class="iRadio male cur">
                                 <input id="jcLoginName" class="login-in" type="text" placeholder="QQ/手机" name="loginInfo" style=" line-height: 2em; padding: 2px 10px; font-size: 16px;">
@@ -149,7 +184,7 @@ if ( domWidth<1200 ) {
                                 </div>
                             </div>
                             
-                            <div class="reg-items"> <a class="btnR1 jaBtnReg" href="javascript;">免费注册</a> </div>
+                            <div class="reg-items"> <a class="btnR1 jaBtnReg" href="javascript:;">免费注册</a> </div>
                         </div>
                     </section>
                 </form>
@@ -265,7 +300,15 @@ if ( domWidth<1200 ) {
             <div class="brand-title">
                 <h2>相亲快 找相爱</h2>
             </div>
-            <div class="action"> <a class="btn-reg" href="javascript:;">注册</a> <a class="btn-login" href="javascript:;">登录</a> </div>
+            <div class="action" style='display:<?php
+                        if ($_SESSION['user']) {
+                            echo "none";
+                        }else{
+                            echo "true";
+                        }
+
+                        ?>'> 
+                        <a class="btn-reg" href="javascript:;">注册</a> <a class="btn-login" href="javascript:;">登录</a> </div>
         </div>
     </section>
 </article>

@@ -1,5 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit();?>
-
+<?php if (!defined('THINK_PATH')) exit(); var_dump() ?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -9,6 +8,7 @@
 <!-- 百度站长统计 -->
 <meta name="keywords" content="相爱网"/>
 <meta name="description" content="相爱网专为单身男女提供相亲服务，实时发布高质量的同城相亲信息，9000万优质会员等你来相爱网同城相亲！【专业红娘团队|高效同城相亲】"/>
+<<<<<<< HEAD
 <link rel="stylesheet" href="/111/xiangai/Public/Home/css/public_efb6e35.css">
 <link rel="stylesheet" href="/111/xiangai/Public/Home/css/brandindex_76b0223.css">
 <!--[if lt IE 9]> <script type="text/javascript"> (function (){ var tag = ['section','header','footer','nav','hgroup','article','aside'],i=0; for(i in tag){ document.createElement(tag[i]); } })();</script><![endif]-->
@@ -16,6 +16,15 @@
 <script src="/111/xiangai/Public/Home/js/fixcore.js"></script>
 <script src="/111/xiangai/Public/Home/js/lab.min_e842152.js"></script>
 <script src="/111/xiangai/Public/Home/js/sea_7e06016.js"></script>
+=======
+<link rel="stylesheet" href="/xiangai-master/xiangai-master/Public/Home/css/public_efb6e35.css">
+<link rel="stylesheet" href="/xiangai-master/xiangai-master/Public/Home/css/brandindex_76b0223.css">
+<!--[if lt IE 9]> <script type="text/javascript"> (function (){ var tag = ['section','header','footer','nav','hgroup','article','aside'],i=0; for(i in tag){ document.createElement(tag[i]); } })();</script><![endif]-->
+<script src="/xiangai-master/xiangai-master/Public/Home/js/jquery_2a410e3.js"></script>
+<script src="/xiangai-master/xiangai-master/Public/Home/js/fixcore.js"></script>
+<script src="/xiangai-master/xiangai-master/Public/Home/js/lab.min_e842152.js"></script>
+<script src="/xiangai-master/xiangai-master/Public/Home/js/sea_7e06016.js"></script>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
 <script type="text/javascript">
 
 /* Baidu Statistics Begin*/
@@ -70,9 +79,15 @@ if ( domWidth<1200 ) {
 }
 </script>
 <header id="jcZAHeader" class="header za-brand-header">
+<<<<<<< HEAD
     <section class="frameW top-bar clearfix"> <a class="logo" href="#" title="相爱网"><img src="/111/xiangai/Public/Home/images/picture/logo.png" width="100%"/></a>
+=======
+    <section class="frameW top-bar clearfix"> <a class="logo" href="#" title="相爱网"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/logo.png" width="100%"/></a>
+        <?php
+ if (empty($_SESSION['user']['username'])) { ?>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
         <div id="jcLoginPanel" class="login-panel clearfix">
-            <form id="loginForm" name="form1" action="http://profile.zhenai.com/login/loginactionindex.jsps?from=newmain" method="post">
+            <form id="loginForm" name="form1" action="<?php echo U('login');?>" method="post">
                 <input type="hidden" name="fromurl" id="fromurl" value=""/>
                 <input type="hidden" name="whichTV" id="whichTV" value=""/>
                 <input type="hidden" name="fid" id="fid" value=""/>
@@ -82,26 +97,37 @@ if ( domWidth<1200 ) {
                 <input type="hidden" name="whereLogin" id="whereLogin" value="index"/>
                 <div class="login-form">
                     <div class="login-items">
-                        <input id="jcLoginName" class="login-in" type="text" value="QQ/手机" name="loginInfo">
+                        <input id="jcLoginName" class="login-in" type="text" placeholder="QQ/手机" name="username">
                         <br>
                         <span class="error-tips">用户名不能为空</span> </div>
                     <div class="login-items">
-                        <input id="jcLoginPass" class="login-in" type="password" name="password">
+                        <input id="jcLoginPass" class="login-in" type="password" name="password" placeholder="密码">
                         <br>
                         <div class="lgin-next">
                             <input type="checkbox" name="autoLogin" id="nextLogin">
                             <label for="nextLogin">下次自动登录</label>
                         </div>
-                        <a href="http://register.zhenai.com/login/findPasswordNav.jsps" class="forget" rel="nofollow">忘记密码？</a> <span class="pass-txt">密码</span> </div>
-                    <a href="javascript:;" class="btnP2 login-btn">登录</a> <a class="login-by-qq" href="http://connect.zhenai.com/qq/login.x?fromurl=" title="QQ号登录"  target="_blank" rel="nofollow"></a> <a class="login-by-weibo" href="http://static.zhenai.com/weibo/login.jsps?fromurl=" title="微博号登录"  target="_blank" rel="nofollow"></a> </div>
+                        <a href="http://register.zhenai.com/login/findPasswordNav.jsps" class="forget" rel="nofollow">忘记密码？</a> <span class="pass-txt"></span> </div>
+                        <a><input type='submit'  class="btnP2 login-btn" value='登陆'/></a>
+                   <a class="login-by-qq" href="http://connect.zhenai.com/qq/login.x?fromurl=" title="QQ号登录"  target="_blank" rel="nofollow"></a>
+                     <a class="login-by-weibo" href="http://static.zhenai.com/weibo/login.jsps?fromurl=" title="微博号登录"  target="_blank" rel="nofollow"></a> </div>
             </form>
         </div>
+    <?php
+ }else{ ?>
+         <div id="jcLoginPanel" class="login-panel clearfix">
+            <div align='right'>欢迎,  <?=$_SESSION['user']['username'];?> <a href="<?php echo U('logout');?>">退出</a></div>
+
+        </div>
+   <?php
+ } ?>
     </section>
 </header>
 <article class="za-brand-wraper">
     <section class="banner">
         <div id="jcBrandBanner" class="banner-container">
             <ul class="slide-content">
+<<<<<<< HEAD
                 <li class="ban cur"> <img src="/111/xiangai/Public/Home/images/picture/service4_d928444.jpg" width="100%" height="100%" />
                     <div id="jcBanner" class="frameW"></div>
                 </li>
@@ -109,6 +135,15 @@ if ( domWidth<1200 ) {
                     <div id="jcBanner" class="frameW"></div>
                 </li>
                 <li class="ban cur"> <img src="/111/xiangai/Public/Home/images/picture/service2_3de8666.jpg" width="100%" height="100%" />
+=======
+                <li class="ban cur"> <img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service4_d928444.jpg" width="100%" height="100%" />
+                    <div id="jcBanner" class="frameW"></div>
+                </li>
+                <li class="ban cur"> <img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service2_3de8555.jpg" width="100%" height="100%" />
+                    <div id="jcBanner" class="frameW"></div>
+                </li>
+                <li class="ban cur"> <img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service2_3de8666.jpg" width="100%" height="100%" />
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
                     <div id="jcBanner" class="frameW"></div>
                 </li>
             </ul>
@@ -135,8 +170,15 @@ if ( domWidth<1200 ) {
                     <!--  隐藏域 -->
                     
                     <section id="jcRegBox" class="reg-box">
+<<<<<<< HEAD
                         <div class="mask"></div>
                         <div class="reg-container">
+=======
+                        <div class="mask" style='display:<?php
+ if ($_SESSION['user']) { echo "none"; }else{ echo "true"; } ?>'></div>
+                        <div class="reg-container" style='display:<?php
+ if ($_SESSION['user']) { echo "none"; }else{ echo "true"; } ?>'>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
                             <h3>赶快完成注册，幸福一辈子！</h3>
                             <div class="reg-items reg-sex clearfix" id="ZuiSex" style="margin-top:2em;"> <span class="items-name">账号：</span> <span class="iRadio male cur">
                                 <input id="jcLoginName" class="login-in" type="text" placeholder="QQ/手机" name="loginInfo" style=" line-height: 2em; padding: 2px 10px; font-size: 16px;">
@@ -209,6 +251,7 @@ if ( domWidth<1200 ) {
             </div>
             <ul id="jcBrandService" class="clearfix">
                 <li>
+<<<<<<< HEAD
                     <div class="pic"><img src="/111/xiangai/Public/Home/images/picture/service1_43a6b5c.jpg" alt=""></div>
                 </li>
                 <li>
@@ -219,6 +262,18 @@ if ( domWidth<1200 ) {
                 </li>
                 <li>
                     <div class="pic"><img src="/111/xiangai/Public/Home/images/picture/service4_d928265.jpg" alt=""></div>
+=======
+                    <div class="pic"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service1_43a6b5c.jpg" alt=""></div>
+                </li>
+                <li>
+                    <div class="pic"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service2_3de8eb4.jpg" alt=""></div>
+                </li>
+                <li>
+                    <div class="pic"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service3_d6314d8.jpg" alt=""></div>
+                </li>
+                <li>
+                    <div class="pic"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/service4_d928265.jpg" alt=""></div>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
                 </li>
             </ul>
         </div>
@@ -245,7 +300,11 @@ if ( domWidth<1200 ) {
             <div class="cooperation-ad clearfix">
                 <div id="jcCoopBanner" class="adImg sroll-container">
                     <ul>
+<<<<<<< HEAD
                         <li class="cur"> <a id="jcCoopBannera" href="http://profile.zhenai.com/payment/index.jsps" onclick="stat(1633,1,0,0)" target="_blank"> <img id="jcCoopBannerImg" src="/111/xiangai/Public/Home/images/picture/a1_e19aa08.jpg" alt=""> </a> </li>
+=======
+                        <li class="cur"> <a id="jcCoopBannera" href="http://profile.zhenai.com/payment/index.jsps" onclick="stat(1633,1,0,0)" target="_blank"> <img id="jcCoopBannerImg" src="/xiangai-master/xiangai-master/Public/Home/images/picture/a1_e19aa08.jpg" alt=""> </a> </li>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
                     </ul>
                     <div class="bottom"> <a id="jcCoopBannera2" href="http://profile.zhenai.com/payment/index.jsps" onclick="stat(1633,1,0,0)" target="_blank">
                         <p id="jcCoopBannerText">相爱通  一对一人工红娘相亲服务</p>
@@ -253,8 +312,13 @@ if ( domWidth<1200 ) {
                     <div class="mask"></div>
                 </div>
                 <div class="adImg"><a href="" class="mask" target="_blank" onclick="stat(1633,2,0,0)" rel="nofollow"></a> </div>
+<<<<<<< HEAD
                 <div class="adImg"><img src="/111/xiangai/Public/Home/images/picture/1469069397480.jpg" /> <a href="" class="mask" target="_blank" onclick="stat(1633,5,0,0)" rel="nofollow"></a> </div>
                 <div class="adImg"><img src="/111/xiangai/Public/Home/images/picture/b3.jpg"/><a href="" class="mask" target="_blank" onclick="stat(1633,3,0,0)" rel="nofollow"></a> </div>
+=======
+                <div class="adImg"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/1469069397480.jpg" /> <a href="" class="mask" target="_blank" onclick="stat(1633,5,0,0)" rel="nofollow"></a> </div>
+                <div class="adImg"><img src="/xiangai-master/xiangai-master/Public/Home/images/picture/b3.jpg"/><a href="" class="mask" target="_blank" onclick="stat(1633,3,0,0)" rel="nofollow"></a> </div>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
                 <div class="adImg"> <a href="" class="mask" target="_blank" onclick="stat(1633,4,0,0)" rel="nofollow"></a> </div>
             </div>
         </div>
@@ -265,7 +329,9 @@ if ( domWidth<1200 ) {
             <div class="brand-title">
                 <h2>相亲快 找相爱</h2>
             </div>
-            <div class="action"> <a class="btn-reg" href="javascript:;">注册</a> <a class="btn-login" href="javascript:;">登录</a> </div>
+            <div class="action" style='display:<?php
+ if ($_SESSION['user']) { echo "none"; }else{ echo "true"; } ?>'> 
+                        <a class="btn-reg" href="javascript:;">注册</a> <a class="btn-login" href="javascript:;">登录</a> </div>
         </div>
     </section>
 </article>
@@ -308,7 +374,11 @@ function stat(resourceId,accessPoint,sParam,isPV) {
 
 
 //$LAB.script("http://images.zastatic.com/zhenai3/zhenai2012/js/lib/jquery-1.8.3.min.js")
+<<<<<<< HEAD
 $LAB.script("/111/xiangai/Public/Home/js/jquery_2a410e3.js").wait()
+=======
+$LAB.script("/xiangai-master/xiangai-master/Public/Home/js/jquery_2a410e3.js").wait()
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
     .wait(function(){
         //统计新版首页PV
         stat(1633,9,0,0);
@@ -334,6 +404,10 @@ $LAB.script("/111/xiangai/Public/Home/js/jquery_2a410e3.js").wait()
         });
     });
 </script> 
+<<<<<<< HEAD
 <script type="text/javascript" id="zp_script_65" src="/111/xiangai/Public/Home/js/p.js" zp_type="1"></script>
+=======
+<script type="text/javascript" id="zp_script_65" src="/xiangai-master/xiangai-master/Public/Home/js/p.js" zp_type="1"></script>
+>>>>>>> 30f7b1c8de53752034d41ba1379d0fef51387d82
 </body>
 </html>
