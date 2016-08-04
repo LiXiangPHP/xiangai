@@ -19,7 +19,7 @@ class IndexController extends Controller {
             // if($_POST['autoLoSgin']){
             //     $_COOKIE['user']=array('username'=>$username); 
             // }	
-    	}  	
+    	}
 		header("location:".U('index'));
 
     }
