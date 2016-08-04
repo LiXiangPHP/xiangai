@@ -30,16 +30,16 @@ class IndexController extends Controller {
 	 public function registerDoit() {
     	$loginfo=I('post.loginInfo', '', 'trim');
     	$password=I('post.password', '', 'trim');
-    	$model=M('users');
-		$user=$model->where('username='.$loginfo)->fetchsql(false)->select();
-		$loginfolen=strlen($loginfo);
-		$passwordlen=strlen($password);
 		if(empty($loginfo)){
 			$this->error('帐号不能为空！');
 		}
 		if(empty($password)){
 			$this->error('密码不能为空！');
 		}
+    	$model=M('users');
+		$user=$model->where('username='.$loginfo)->fetchsql(false)->select();
+		$loginfolen=strlen($loginfo);
+		$passwordlen=strlen($password);
 		if($loginfolen!=11){
 			$this->error('手机号输入有误，须11位');
 		}
